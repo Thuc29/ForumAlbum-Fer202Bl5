@@ -1,0 +1,37 @@
+.header {
+    height: 125px;
+    background-color: #21313e;
+
+}
+
+.header .menu {
+    background-color: #1F2833;
+    text-align: center;
+    border-top: 2px solid #66FCF1;
+    border-bottom: 2px solid #66FCF1;
+    background-color: #21313e;
+    height: 45px;
+}
+
+
+.header .menu ul {
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+
+.text-header {
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.header .menu ul li {
+    display: inline-block;
+    padding: 0 10px;
+}
+
+
+.content {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
